@@ -1,5 +1,5 @@
 {
-    "name": "davidepastore/codice-fiscale",
+    "name": "schema31/php-it-tax-code-sdk",
     "description": "An italian tax code calculator and checker",
     "keywords" : [
         "codice fiscale",
