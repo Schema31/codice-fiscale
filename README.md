@@ -1,4 +1,4 @@
-codice-fiscale
+php-it-tax-code-sdk
 ======
 
 [![Latest version][ico-version]][link-packagist]
@@ -20,7 +20,7 @@ Install
 You can install the library using [composer](https://getcomposer.org/):
 
 ```sh
-$ composer require davidepastore/codice-fiscale
+$ composer require schema31/php-it-tax-code-sdk
 ```
 
 How to use
@@ -338,23 +338,4 @@ $ vendor\bin\phpunit
 ```
 
 
-Issues
--------
-
-If you have issues, just open one [here](https://github.com/DavidePastore/codice-fiscale/issues).
-
-
-
-[ico-version]: https://img.shields.io/packagist/v/DavidePastore/codice-fiscale.svg?style=flat-square
-[ico-travis]: https://travis-ci.org/DavidePastore/codice-fiscale.svg?branch=master
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/DavidePastore/codice-fiscale.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/davidepastore/codice-fiscale.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/DavidePastore/codice-fiscale.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/46665960/shield
-
-[link-packagist]: https://packagist.org/packages/DavidePastore/codice-fiscale
-[link-travis]: https://travis-ci.org/DavidePastore/codice-fiscale
-[link-scrutinizer]: https://scrutinizer-ci.com/g/DavidePastore/codice-fiscale/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/DavidePastore/codice-fiscale
-[link-downloads]: https://packagist.org/packages/DavidePastore/codice-fiscale
-[link-styleci]: https://styleci.io/repos/46665960/
+[link-packagist]: https://packagist.org/packages/schema31/php-it-tax-code-sdk
