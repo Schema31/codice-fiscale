@@ -199,7 +199,7 @@ abstract class AbstractCalculator
                 '/ñ/'           =>   'n',
                 '/Ñ/'           =>   'N',
                 '/–/'           =>   '', // UTF-8 hyphen to "normal" hyphen
-                '/[’‘‹›‚]/u'    =>   '', // Literally a single quote
+                '/[\'’‘‹›‚]/u'    =>   '', // Literally a single quote
                 '/[“”«»„]/u'    =>   '', // Double quote
                 '/ /'           =>   '', // nonbreaking space (equiv. to 0x160)
             );
